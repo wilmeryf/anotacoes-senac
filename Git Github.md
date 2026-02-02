@@ -124,7 +124,6 @@ git clone LINK_DO_REPOSITORIO
 5. Abrir o terminal do VS Code:
 
 ```nginx
-Copiar código
 Ctrl + J
 ```
 ### Configurar Git no VS Code (se necessário)

@@ -1,6 +1,6 @@
 # 🤖 Desafio Final — UC | Montagem e Ligação de Robô com Arduino
 
-> Documentação do desafio final de UCI envolvendo montagem elétrica,
+> Documentação do desafio final de UC envolvendo montagem elétrica,
 > uso de Arduino, CI L293D, motores e sensores.
 > Conteúdo baseado em aula prática.
 

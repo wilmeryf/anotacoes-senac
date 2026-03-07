@@ -13,6 +13,52 @@
 
 ---
 
+## Reset e Configuração Inicial de um Roteador
+
+### 1. Ligar o roteador
+Conecte o roteador à **energia**.
+
+Tomada ─── Fonte ─── Roteador
+
+A maioria dos roteadores **liga automaticamente** ao receber energia. Aguarde cerca de **30 a 60 segundos** até ele inicializar.
+
+### 2. Resetar o roteador
+Localize o botão **RESET** (geralmente um pequeno furo na parte traseira).
+
+Pressione e segure por **aproximadamente 10 segundos** até que as luzes do roteador pisquem ou ele reinicie.
+
+Isso fará o roteador voltar para as **configurações de fábrica**.
+
+### 3. Conectar o computador ao roteador
+Conecte um **cabo de rede** entre o computador e uma das portas **LAN** do roteador.
+
+Computador ─── LAN (Roteador)
+
+### 4. Acessar a interface do roteador
+Abra um navegador e digite o **IP padrão do roteador**, por exemplo:
+
+192.168.0.1
+ou
+192.168.1.1
+
+Faça login utilizando o **usuário e senha padrão** do dispositivo.
+
+### 5. Configurar o roteador
+Na interface de configuração, ajuste se necessário:
+
+- Nome da rede (SSID)
+- Senha do Wi-Fi
+- Outras configurações de rede
+
+### 6. Conectar a internet na porta WAN
+Após finalizar a configuração inicial, conecte o cabo de internet na porta **WAN** do roteador.
+
+Internet / Modem ─── WAN (Roteador)
+
+O roteador então passará a **distribuir internet para os dispositivos conectados nas portas LAN e no Wi-Fi**.
+
+---
+
 ## 🔍 Verificando Conexão com o Roteador
 
 ### Teste de ping

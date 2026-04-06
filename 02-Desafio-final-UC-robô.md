@@ -1,5 +1,7 @@
 # 🤖 Desafio Final — UC | Montagem e Ligação de Robô com Arduino
 
+**Unidade Curricular 1 - SENAC**
+
 > Documentação do desafio final de UC envolvendo montagem elétrica,
 > uso de Arduino, CI L293D, motores e sensores.
 > Conteúdo baseado em aula prática.

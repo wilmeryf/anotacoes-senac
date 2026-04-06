@@ -1,5 +1,7 @@
 # 🪟 Windows 11 — Instalação e Configuração Passo a Passo
 
+**Unidade Curricular 4 - SENAC**
+
 > Documentação criada a partir de atividades práticas em aula.
 > O passo a passo pode ser aplicado tanto em máquina física
 > quanto em ambiente de teste.

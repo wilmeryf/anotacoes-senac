@@ -1,5 +1,7 @@
 # 🌐 Configuração Básica de Roteador (Rede Local)
 
+**Unidade Curricular 3 - SENAC**
+
 > Anotações de aula prática sobre configuração de roteadores em rede local.  
 > Conteúdo básico, voltado para testes, aprendizado e entendimento do funcionamento.
 

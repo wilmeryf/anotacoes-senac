@@ -1,5 +1,7 @@
 # 📘 Git & GitHub — Anotações Essenciais
 
+**Unidade Curricular 1 - SENAC**
+
 > Anotações pessoais para uso com Git e GitHub.  
 > Sem informações sensíveis (tokens, senhas ou dados privados).
 

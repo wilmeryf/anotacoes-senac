@@ -2,9 +2,8 @@
 
 **Unidade Curricular 4 - SENAC**
 
-> Documentação criada a partir de atividades práticas em aula.
-> O passo a passo pode ser aplicado tanto em máquina física
-> quanto em ambiente de teste.
+> Documentação criada a partir de atividades práticas em aula.  
+> O passo a passo pode ser aplicado tanto em máquina física quanto em ambiente de teste.
 
 ---
 
@@ -26,8 +25,6 @@ iniciais de desempenho, drivers e otimização do sistema.
   - **Windows 11 Pro**
 - Avançar
 
----
-
 ### Disco e Partição
 - Selecionar **Disco inteiro**
 - Avançar
@@ -44,26 +41,18 @@ iniciais de desempenho, drivers e otimização do sistema.
 - Teclado: **ABNT2**
 - Pular segundo teclado (se solicitado)
 
----
-
 ### Nome do dispositivo
 - Definir nome do computador: PC-1
-
----
 
 ### Tipo de uso
 - Configurar como **uso corporativo**
 - Avançar
-
----
 
 ### Conta de acesso
 - Opção: **Ingresso no domínio**
 - Nome do usuário: admin
 - Senha: *(não definir senha)*
 - Avançar
-
----
 
 ### Privacidade
 - Não permitir localização
@@ -89,15 +78,11 @@ iniciais de desempenho, drivers e otimização do sistema.
 1. Abrir: Painel de Controle → Sistema e Segurança → Sistema
 2. Acessar: Configurações avançadas do sistema → Hardware → Gerenciador de Dispositivos
 
----
-
 ### Atualização de drivers
 - Utilizar um software auxiliar para identificar drivers faltantes
 - Realizar a atualização completa
 - Reiniciar o computador após a conclusão
 - Desinstalar o software auxiliar após o uso
-
----
 
 ### Driver de vídeo
 - Instalar o **driver de vídeo diretamente do fabricante da GPU**
@@ -112,8 +97,6 @@ iniciais de desempenho, drivers e otimização do sistema.
 - Verificar:
   - CPU
   - Frequência (ex: 3,8 GHz)
-
----
 
 ### Plano de energia
 1. Barra de pesquisa: Energia
@@ -132,15 +115,11 @@ iniciais de desempenho, drivers e otimização do sistema.
 - Painel de Controle → Programas → Desinstalar programas
 - Menu Iniciar → Todos os aplicativos → Desinstalar o que não usa
 
----
-
 ### Limpeza de disco
 1. Barra de pesquisa: Limpeza de disco
 2. Selecionar o disco
 3. Marcar todos os arquivos
 4. Excluir
-
----
 
 ### Proteção do sistema
 Painel de Controle → Sistema e Segurança → Sistema → Configurações avançadas → Proteção do sistema
@@ -170,15 +149,11 @@ Painel de Controle → Sistema → Configurações avançadas → Remoto
 
 - Desmarcar assistência remota
 
----
-
 ### Efeitos visuais
 Configurações avançadas do sistema → Avançado → Desempenho → Configurações
 
 - Selecionar **Ajustar para melhor desempenho**
 - Desmarcar os 8 primeiros efeitos
-
----
 
 ### Memória virtual
 Configurações avançadas do sistema → Avançado → Desempenho → Avançado
@@ -186,8 +161,6 @@ Configurações avançadas do sistema → Avançado → Desempenho → Avançado
 - Alterar
 - Gerenciar
 - Definir tamanho personalizado
-
----
 
 ### Personalização
 - Configurações → Personalização → Cores
